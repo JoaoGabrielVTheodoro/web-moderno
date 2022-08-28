@@ -10,7 +10,7 @@ function Pessoa() {
   self.idade = 0
 
   const incrementar = function () {
-    this.idade++
+    self.idade++
     console.log(this.idade)
   }.bind(self)
 
