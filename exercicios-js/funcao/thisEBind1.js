@@ -3,13 +3,13 @@
  * - This é o valor fornecido
  * - Possui uma sequência de argumentos
  * - This -> Objeto passado para bind
-*/
+ */
 
 const pessoa = {
-  saudacao: 'Bom-dia!',
+  saudacao: "Bom-dia!",
   falar() {
     console.log(this.saudacao)
-  }
+  },
 }
 
 pessoa.falar()

@@ -4,7 +4,7 @@
  * regulares sejam inicializados com com valores iniciais caso `undefined`ou
  * nenhum valor seja passado.
  * - Valor pré-definido. Caso contrário `undefined`
-*/
+ */
 
 // Primeira estratégia para gerar valores padrões
 function soma1(a, b, c) {

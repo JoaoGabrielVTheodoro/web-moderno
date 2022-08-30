@@ -4,7 +4,7 @@
  * - Callback
  * - Passada como parâmetro de uma função
  * - Atribuída em uma variável
-*/
+ */
 
 const soma = function (x, y) {
   return x + y
@@ -23,8 +23,8 @@ imprimirResultado(3, 4, (x, y) => x * y)
 
 const pessoa = {
   falar: function () {
-    console.log('Opa')
-  }
+    console.log("Opa")
+  },
 }
 
 pessoa.falar()

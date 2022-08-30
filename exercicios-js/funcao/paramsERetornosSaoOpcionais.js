@@ -4,7 +4,7 @@
  * - Você pode configurar o parâmetro padrão com um valor default
  * - Retorno Opcional
  * - Pode se passar uma quantidade vasta de parâmetros
-*/
+ */
 
 function area(largura, altura) {
   const area = largura * altura

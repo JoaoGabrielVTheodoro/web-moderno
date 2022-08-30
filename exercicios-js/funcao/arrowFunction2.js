@@ -2,7 +2,7 @@
  * Função Arrow
  * - Não possui a existência de um this
  * - This ligado ao contexto lexico
-*/
+ */
 
 function Pessoa() {
   this.idade = 0

@@ -2,7 +2,7 @@
  * Função Arrow
  * - Não possui a existência de um this
  * - This ligado ao contexto lexico
-*/
+ */
 
 let comparaComThis = function (param) {
   console.log(param === this)

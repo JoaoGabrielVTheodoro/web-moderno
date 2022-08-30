@@ -3,7 +3,7 @@
  * - This é o valor fornecido
  * - Possui uma sequência de argumentos
  * - This -> Objeto passado para bind
-*/
+ */
 
 function Pessoa() {
   const self = this // drible do this variar
