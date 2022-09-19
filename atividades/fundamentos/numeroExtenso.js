@@ -31,4 +31,4 @@ console.log(exibirExtenso(7))
 console.log(exibirExtenso(8))
 console.log(exibirExtenso(9))
 console.log(exibirExtenso(10))
-console.log(exibirExtenso(11))
+console.log(exibirExtenso(11)) // Número fora do intervalo
